@@ -1,0 +1,2 @@
+1.We can access Swagger UI--> $<BaseUrl>/swagger-ui/index.html
+2. We can access h2-console --> $<BaseUrl>/h2-console
