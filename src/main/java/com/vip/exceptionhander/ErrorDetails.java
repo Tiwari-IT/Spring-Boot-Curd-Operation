@@ -1,4 +1,4 @@
-package com.vip;
+package com.vip.exceptionhander;
 
 import java.util.Date;
 
