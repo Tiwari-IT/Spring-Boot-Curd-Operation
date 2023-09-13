@@ -1,4 +1,4 @@
-package com.vip.repo;
+package com.vip.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

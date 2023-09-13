@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.tiwariit</groupId>
-	<artifactId>Spring-Boot-Curd-Operation</artifactId>
+	<artifactId>Spring-Boot-Simple-Crud-Operation</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>Spring-Boot-Curd-Operation</name>
 	<description>CURD Operation using H2 DataBase</description>
 	<properties>
